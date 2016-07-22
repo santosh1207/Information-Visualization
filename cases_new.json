@@ -1,0 +1,59 @@
+[
+  {
+    "Date":"2-Aug-14",
+    "1. Total new cases":171,
+    "2. New suspected cases":41,
+    "3. New probable cases":59,
+    "4. New confirmed cases":82
+  },
+  {
+    "Date":"2-Sep-14",
+    "1. Total new cases":227,
+    "2. New suspected cases":40,
+    "3. New probable cases":67,
+    "4. New confirmed cases":98
+  },
+  {
+    "Date":"2-Oct-14",
+    "1. Total new cases":310,
+    "2. New suspected cases":84,
+    "3. New probable cases":65,
+    "4. New confirmed cases":87
+  },
+  {
+    "Date":"2-Nov-14",
+    "1. Total new cases":247,
+    "2. New suspected cases":36,
+    "3. New probable cases":21,
+    "4. New confirmed cases":108
+  },
+  {
+    "Date":"2-Dec-14",
+    "1. Total new cases":221,
+    "2. New suspected cases":45,
+    "3. New probable cases":55,
+    "4. New confirmed cases":80
+  },
+  {
+    "Date":"02-Jan-15",
+    "1. Total new cases":134,
+    "2. New suspected cases":23,
+    "3. New probable cases":29,
+    "4. New confirmed cases":62
+  },
+  {
+    "Date":"02-Feb-15",
+    "1. Total new cases":112,
+    "2. New suspected cases":13,
+    "3. New probable cases":9,
+    "4. New confirmed cases":34
+  },
+  {
+    "Date":"02-Mar-15",
+    "1. Total new cases":83,
+    "2. New suspected cases":11,
+    "3. New probable cases":12,
+    "4. New confirmed cases":16
+  
+  }
+]
